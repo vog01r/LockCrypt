@@ -21,16 +21,21 @@ and you can decrypt your documents with dechiffrement_all.py
 to change the destination of the folder to be encrypted, it's directly in the code.
 
 ```
-for path, subdirs, files in os.walk('**./test**'):
+for path, subdirs, files in os.walk('./test'):
     for name in files:
 ```
 
 change file extension after encryption
 
 ```
-with open(filepath+'**.zooky**', 'wb') as encrypted_file: 
+with open(filepath+'.zooky', 'wb') as encrypted_file: 
              encrypted_file.write(encrypted)
 ```
+
+### explanation of its use
+
+tool for performing encryption tests.
+
 
 ### Data
 

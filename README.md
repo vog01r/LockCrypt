@@ -5,10 +5,11 @@ I copied the framework of the readme from https://github.com/stasbel/articlix
 
 
 ## Installation
+```
 git https://github.com/vogeaux/crypt_rew.git
 cd ./crypt_rew
 pip install -r ./requirements.txt
-
+```
 
 ## Usage
 

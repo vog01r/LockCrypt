@@ -13,11 +13,11 @@ pip install -r ./requirements.txt
 
 ## Usage
 
-after generating your key with the genchiffre.py file
+after generating your key with the **genchiffre.py** file
 you have a file that has an encryption key filekey.key.
 
-now you can encrypt your documents with chriffrement_all.py
-and you can decrypt your documents with dechiffrement_all.py
+now you can encrypt your documents with **chriffrement_all.py**
+and you can decrypt your documents with **dechiffrement_all.py**
 
 to change the destination of the folder to be encrypted, it's directly in the code.
 
@@ -40,10 +40,10 @@ tool for performing encryption tests.
 
 ### Data
 
-Data test is folder ./test
+Data test is folder **./test**
 
 ### key
 
-you must generate your encryption key with genchiffre.py
+you must generate your encryption key with **genchiffre.py**
 
 [MIT](LICENSE)

@@ -2,7 +2,9 @@
 
 ## Description
 
-**LockCrypt** est une solution avancée de chiffrement et de déchiffrement de fichiers, conçue pour offrir une sécurité robuste et une flexibilité maximale. Utilisant la bibliothèque `cryptography`, LockCrypt permet de protéger vos données sensibles en chiffrant les fichiers de manière sécurisée. Ce projet est idéal pour les développeurs et les entreprises cherchant à intégrer des fonctionnalités de sécurité avancées dans leurs systèmes.
+**LockCrypt** est une solution open source de test de cybersécurité, conçue pour offrir une plateforme de chiffrement robuste et flexible. Inspirée par les standards de l'industrie, LockCrypt permet aux développeurs et aux professionnels de la sécurité de tester et d'évaluer les fonctionnalités de défense de leurs systèmes. En utilisant la bibliothèque `cryptography`, LockCrypt offre un chiffrement de type industriel qui peut être intégré dans des environnements de test pour simuler des scénarios de sécurité réels.
+
+Cette solution est idéale pour les entreprises et les chercheurs en cybersécurité qui souhaitent explorer et renforcer les capacités de défense de leurs infrastructures numériques. LockCrypt est conçu pour être facilement extensible, permettant aux utilisateurs d'adapter et d'améliorer les fonctionnalités selon leurs besoins spécifiques.
 
 ## Fonctionnalités
 
